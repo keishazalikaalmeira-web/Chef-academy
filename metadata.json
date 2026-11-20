@@ -1,0 +1,6 @@
+{
+  "name": "Chef Academy: Resep Anti-Gagal & Edukasi Kuliner",
+  "description": "Platform edukasi kuliner profesional dari Chef untuk anak didik dengan panduan resep interaktif anti-gagal, sains dapur, dan kuis asah otak kuliner.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
